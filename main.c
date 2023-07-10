@@ -23,4 +23,5 @@ int A(){
     for(int i=0;i++;i<5){
         printf(i);
     }
+    printf("\n");
 }
