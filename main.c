@@ -9,5 +9,5 @@ int main(){
 }
 
 int summerFunction(){
-    printf("Summer is a person");
+    printf("Summer is a girl");
 }
