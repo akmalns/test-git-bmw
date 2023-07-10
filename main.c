@@ -24,4 +24,5 @@ int A(){
         printf(i);
     }
     printf("\n");
+    printf("x");
 }
