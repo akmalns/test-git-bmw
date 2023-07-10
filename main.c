@@ -7,3 +7,7 @@ int akmalFunction(){
 int main(){
     akmalFunction();
 }
+
+int summerFunction(){
+    printf("Summer is a man");
+}
