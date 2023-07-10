@@ -10,4 +10,5 @@ int main(){
 
 int summerFunction(){
     printf("Summer is a man");
+    printf("hello");
 }
