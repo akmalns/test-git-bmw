@@ -14,3 +14,7 @@ int summerFunction(){
     printf("Akmal was here");
     printf("hello");
 }
+
+int A(){
+    printf("A");
+}
